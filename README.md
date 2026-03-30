@@ -1,56 +1,106 @@
-# Sabbir Ahmed
+<div align="center">
 
-Applied Machine Learning · Systems · Research <sub>Tony</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Sabbir%20Ahmed&fontSize=56&fontColor=EAF1FF&fontAlignY=36&desc=Applied%20Machine%20Learning%20%C2%B7%20Systems%20%C2%B7%20Research%20%C2%B7%20Tony&descAlignY=58&descSize=17&animation=fadeIn&color=gradient&customColorList=12,20,24,30" width="100%" />
 
-<br>
+<br/>
 
-<hr>
+<img src="https://img.shields.io/badge/Springer-BIM%202025-3E63DD?style=for-the-badge&labelColor=0A1022" />
+&nbsp;
+<img src="https://img.shields.io/badge/NASA-Global%20Nominee-3E63DD?style=for-the-badge&labelColor=0A1022" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Constraint--Driven%20ML-3E63DD?style=for-the-badge&labelColor=0A1022" />
 
-<svg width="100%" height="3" viewBox="0 0 1000 3" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Subtle animated accent line">
-  <defs>
-    <linearGradient id="accent-line" x1="-100%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#0D1117" stop-opacity="0" />
-      <stop offset="50%" stop-color="#7C8CFF" stop-opacity="0.45" />
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
-      <animate attributeName="x1" values="-100%;100%;-100%" dur="20s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="0%;200%;0%" dur="20s" repeatCount="indefinite" />
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="1000" height="3" fill="url(#accent-line)" opacity="0.6" />
-</svg>
+</div>
 
-<br>
+---
 
-`Springer · BIM 2025`  `NASA · Global Nominee`  `Focus · Constraint-driven ML`
+<div align="center">
 
-I build machine learning systems that operate under real constraints.
+### I build machine learning systems that operate under real constraints.
 
-<br><br>
+<i>Applied Machine Learning with production discipline, research depth, and measurable outcomes.</i>
+
+</div>
+
+---
 
 ## Selected Work
 
-<br>
+**ML-based Biofilter Selection**  
+→ Decision-support system for textile wastewater treatment  
+→ Published, Springer (BIM 2025)
 
-**ML-based Biofilter Selection** <sub>Decision-support system for textile wastewater treatment<br>Published — Springer (BIM 2025)</sub>
+**NASA Space Apps Challenge**  
+→ Built a data-driven solution under time constraints  
+→ Global Nominee
 
-<br><br>
+---
+
+## Focus
+
+- **Applied ML:** end-to-end systems (data → model → deployment)
+- **Security × ML:** robustness, adversarial thinking
+- **Research:** experiment-driven, literature-grounded
+- **Delivery:** clarity in execution, outcomes over noise
+
+---
 
 ## Stack
 
-<br>
+<div align="center">
 
-`Python`  `PyTorch`  `Scikit-learn`  `Pandas`  `Linux`  `Git`
+<img src="https://img.shields.io/badge/Python-0A1022?style=for-the-badge&logo=python&logoColor=8FB3FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/PyTorch%20%2F%20Scikit--learn-0A1022?style=for-the-badge&logo=pytorch&logoColor=8FB3FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-0A1022?style=for-the-badge&logo=pandas&logoColor=8FB3FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-0A1022?style=for-the-badge&logo=linux&logoColor=8FB3FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git-0A1022?style=for-the-badge&logo=git&logoColor=8FB3FF" />
 
-<br><br>
+</div>
+
+---
 
 ## Philosophy
-
-<br>
 
 - Prefer clarity over complexity
 - Build for constraints, not demos
 - Measure before claiming
 
-<br><br>
+---
 
-<img src="https://raw.githubusercontent.com/Tony1254-CS/Tony1254-CS/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="88%" />
+## GitHub Insights
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tony1254-CS&show_icons=true&theme=transparent&bg_color=0A1022&border_color=2A3F73&icon_color=8FB3FF&title_color=DCE8FF&text_color=B6C9F4&hide_border=false&rank_icon=github&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony1254-CS&layout=compact&theme=transparent&bg_color=0A1022&border_color=2A3F73&title_color=DCE8FF&text_color=B6C9F4&hide_border=false" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Tony1254-CS&theme=transparent&background=0A1022&border=2A3F73&ring=3E63DD&fire=3E63DD&currStreakLabel=DCE8FF&sideLabels=B6C9F4&currStreakNum=EAF1FF&sideNums=EAF1FF&dates=8FA4D3" />
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:sabbirahmed123546@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sabbirahmed12546%40gmail.com-3E63DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1022" />
+</a>
+
+<br/><br/>
+
+<i>Open to work that requires thinking, not just implementation.</i>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&color=gradient&customColorList=12,20,24,30" width="100%" />
