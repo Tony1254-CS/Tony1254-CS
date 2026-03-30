@@ -92,7 +92,7 @@
 <div align="center">
 
 <a href="mailto:sabbirahmed123546@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sabbirahmed123546%40gmail.com-3E63DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1022" />
+  <img src="https://img.shields.io/badge/Email-sabbirahmed12546%40gmail.com-3E63DD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1022" />
 </a>
 
 <br/><br/>
