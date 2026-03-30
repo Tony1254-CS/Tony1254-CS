@@ -26,12 +26,10 @@
 <h2>⬡ &nbsp; About</h2>
 </div>
 
-```
-  I design and ship applied machine learning systems where outcomes matter.
-  My work sits at the intersection of model performance, system design,
-  and decision-making under real operational constraints.
-  Research thinking + engineering discipline + clear delivery.
-```
+> I design and ship applied machine learning systems where outcomes matter.
+> My work sits at the intersection of model performance, system design,
+> and decision-making under real operational constraints.
+> Research thinking + engineering discipline + clear delivery.
 
 ---
 
