@@ -75,7 +75,7 @@ My approach combines research depth, production engineering, and clear decision-
 
 ---
 
-### Contact
+### Connect
 
 <div align="center">
 
