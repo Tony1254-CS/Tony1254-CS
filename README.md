@@ -83,7 +83,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Execution-Move%20Precisely-3E63DD?style=for-the-badge&labelColor=0A1022" />
 &nbsp;
-<img src="https://img.shields.io/badge/Standard-Pure%20Class-3E63DD?style=for-the-badge&labelColor=0A1022" />
+<img src="https://img.shields.io/badge/-%20-3E63DD?style=for-the-badge&labelColor=0A1022" />
 
 </div>
 
