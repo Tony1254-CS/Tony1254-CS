@@ -71,17 +71,19 @@
 
 ---
 
-## GitHub Insights
+## Signature
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tony1254-CS&show_icons=true&theme=transparent&bg_color=0A1022&border_color=2A3F73&icon_color=8FB3FF&title_color=DCE8FF&text_color=B6C9F4&hide_border=false&rank_icon=github&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony1254-CS&layout=compact&theme=transparent&bg_color=0A1022&border_color=2A3F73&title_color=DCE8FF&text_color=B6C9F4&hide_border=false" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=700&color=DCE8FF&center=true&vCenter=true&repeat=true&width=760&height=52&lines=Design+for+constraints.;Ship+with+clarity.;Prove+with+results." />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Tony1254-CS&theme=transparent&background=0A1022&border=2A3F73&ring=3E63DD&fire=3E63DD&currStreakLabel=DCE8FF&sideLabels=B6C9F4&currStreakNum=EAF1FF&sideNums=EAF1FF&dates=8FA4D3" />
+<img src="https://img.shields.io/badge/Method-Think%20Deeply-3E63DD?style=for-the-badge&labelColor=0A1022" />
+&nbsp;
+<img src="https://img.shields.io/badge/Execution-Move%20Precisely-3E63DD?style=for-the-badge&labelColor=0A1022" />
+&nbsp;
+<img src="https://img.shields.io/badge/Standard-Pure%20Class-3E63DD?style=for-the-badge&labelColor=0A1022" />
 
 </div>
 
