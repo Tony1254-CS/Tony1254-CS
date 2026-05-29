@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="auto">
+  <defs>
+    <style>
+      .section-title { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; letter-spacing: -1px; fill: #FFFFFF; }
+      .card { fill: #0A0A0A; stroke: #222222; stroke-width: 1; rx: 24; }
+      .card-icon { fill: #FFFFFF; }
+      .card-title { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 600; fill: #FFFFFF; }
+      .item { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; fill: #888888; }
+    </style>
+  </defs>
+  <rect width="850" height="360" fill="#000000"/>
+  <text x="60" y="60" class="section-title">Core Competencies</text>
+  <!-- Card 1: Intelligent Systems -->
+  <g transform="translate(60, 100)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.4s" dur="1s" fill="freeze"/>
+    <rect width="220" height="240" class="card"/>
+    <circle cx="30" cy="40" r="10" class="card-icon" opacity="0.2"/><circle cx="30" cy="40" r="4" class="card-icon"/>
+    <text x="30" y="80" class="card-title">Intelligent Systems</text>
+    <text x="30" y="115" class="item">Machine Learning</text>
+    <text x="30" y="145" class="item">Predictive Analytics</text>
+    <text x="30" y="175" class="item">Anomaly Detection</text>
+    <text x="30" y="205" class="item">Behavioral Modeling</text>
+  </g>
+  <!-- Card 2: Cybersecurity -->
+  <g transform="translate(310, 100)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.6s" dur="1s" fill="freeze"/>
+    <rect width="220" height="240" class="card"/>
+    <rect x="22" y="32" width="16" height="16" rx="4" class="card-icon" opacity="0.2"/><rect x="26" y="36" width="8" height="8" rx="2" class="card-icon"/>
+    <text x="30" y="80" class="card-title">Cybersecurity</text>
+    <text x="30" y="115" class="item">Digital Forensics</text>
+    <text x="30" y="145" class="item">Wireshark</text>
+    <text x="30" y="175" class="item">Nmap</text>
+    <text x="30" y="205" class="item">Metasploit</text>
+  </g>
+  <!-- Card 3: Technical Stack -->
+  <g transform="translate(560, 100)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.8s" dur="1s" fill="freeze"/>
+    <rect width="220" height="240" class="card"/>
+    <path d="M 22 40 L 30 32 L 30 48 Z" class="card-icon" opacity="0.2"/><path d="M 38 40 L 30 32 L 30 48 Z" class="card-icon"/>
+    <text x="30" y="80" class="card-title">Technical Stack</text>
+    <!-- Two columns for stack -->
+    <text x="30" y="115" class="item">Python</text>
+    <text x="30" y="145" class="item">TensorFlow</text>
+    <text x="30" y="175" class="item">Scikit-Learn</text>
+    <text x="30" y="205" class="item">Pandas</text>
+    <text x="130" y="115" class="item">SQL</text>
+    <text x="130" y="145" class="item">Linux</text>
+    <text x="130" y="175" class="item">Git</text>
+  </g>
+</svg>

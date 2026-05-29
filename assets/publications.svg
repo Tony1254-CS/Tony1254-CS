@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 480" width="100%" height="auto">
+  <defs>
+    <style>
+      .section-title { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; letter-spacing: -1px; fill: #FFFFFF; }
+      .year { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 500; fill: #888888; }
+      .pub-title { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: 600; fill: #FFFFFF; letter-spacing: -0.3px; }
+      .pub-venue { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; fill: #888888; }
+      .badge-bg { fill: #111111; stroke: #333333; stroke-width: 1; rx: 12; }
+      .badge-text { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: 700; fill: #DDDDDD; letter-spacing: 1px; }
+      .line { stroke: #222222; stroke-width: 1; }
+    </style>
+  </defs>
+  <rect width="850" height="480" fill="#000000"/>
+  <text x="60" y="60" class="section-title">Selected Research</text>
+  <g transform="translate(40, 100)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.5s" dur="1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="40,115; 40,100" begin="0.5s" dur="1s" fill="freeze"/>
+    <text x="20" y="40" class="year">2026</text>
+    <text x="120" y="40" class="pub-title">Beyond Speed Thresholds: Unsupervised Behavioral Regime</text>
+    <text x="120" y="65" class="pub-title">Profiling for Vessel Anomaly Detection</text>
+    <text x="120" y="90" class="pub-venue">ACSR (Atlantis Press, Springer Nature) — ECCT</text>
+    <rect x="650" y="25" width="110" height="24" class="badge-bg"/><text x="705" y="41" class="badge-text" text-anchor="middle">FIRST AUTHOR</text>
+    <line x1="20" y1="120" x2="750" y2="120" class="line"/>
+  </g>
+  <g transform="translate(40, 230)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.7s" dur="1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="40,245; 40,230" begin="0.7s" dur="1s" fill="freeze"/>
+    <text x="20" y="40" class="year">2026</text>
+    <text x="120" y="40" class="pub-title">Predicting High-Density Traffic Events in a Permanently</text>
+    <text x="120" y="65" class="pub-title">Slow-Speed Maritime Corridor</text>
+    <text x="120" y="90" class="pub-venue">Taylor &amp; Francis Books — ECCT</text>
+    <rect x="650" y="25" width="110" height="24" class="badge-bg"/><text x="705" y="41" class="badge-text" text-anchor="middle">FIRST AUTHOR</text>
+    <line x1="20" y1="120" x2="750" y2="120" class="line"/>
+  </g>
+  <g transform="translate(40, 360)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.9s" dur="1s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="40,375; 40,360" begin="0.9s" dur="1s" fill="freeze"/>
+    <text x="20" y="40" class="year">2025</text>
+    <text x="120" y="40" class="pub-title">Machine Learning-based Biofilter Selection for Textile</text>
+    <text x="120" y="65" class="pub-title">Wastewater Treatment in Bangladesh</text>
+    <text x="120" y="90" class="pub-venue">Springer Proceedings — BIM</text>
+    <rect x="650" y="25" width="110" height="24" class="badge-bg"/><text x="705" y="41" class="badge-text" text-anchor="middle">FIRST AUTHOR</text>
+  </g>
+</svg>

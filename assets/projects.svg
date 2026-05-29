@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 660" width="100%" height="auto">
+  <defs>
+    <style>
+      .section-title { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; letter-spacing: -1px; fill: #FFFFFF; }
+      .card { fill: #0A0A0A; stroke: #222222; stroke-width: 1; rx: 16; }
+      .proj-title { font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: 700; fill: #FFFFFF; }
+      .proj-sub { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 600; fill: #06B6D4; letter-spacing: 1px; text-transform: uppercase; }
+      .proj-desc { font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: 400; fill: #888888; }
+      .tag { fill: #111111; stroke: #333333; stroke-width: 1; rx: 12; }
+      .tag-text { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 600; fill: #CCCCCC; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width="850" height="660" fill="#000000"/>
+  <text x="60" y="60" class="section-title">Featured Projects</text>
+  
+  <!-- Project 1: AION -->
+  <g transform="translate(60, 100)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.4s" dur="1s" fill="freeze"/>
+    <rect width="730" height="170" class="card"/>
+    <text x="40" y="45" class="proj-title">AION</text>
+    <text x="40" y="70" class="proj-sub">AI Research Orchestration Platform</text>
+    
+    <text x="40" y="110" class="proj-desc">Transforms research questions into structured,</text>
+    <text x="40" y="132" class="proj-desc">evidence-grounded research drafts through</text>
+    <text x="40" y="154" class="proj-desc">multi-stage AI reasoning pipelines.</text>
+
+    <!-- Tags -->
+    <rect x="420" y="30" width="140" height="26" class="tag"/><text x="490" y="48" class="tag-text">Literature Discovery</text>
+    <rect x="570" y="30" width="130" height="26" class="tag"/><text x="635" y="48" class="tag-text">Hypothesis Gen</text>
+    <rect x="420" y="65" width="140" height="26" class="tag"/><text x="490" y="83" class="tag-text">Experimental Design</text>
+    <rect x="570" y="65" width="130" height="26" class="tag"/><text x="635" y="83" class="tag-text">Research Drafting</text>
+    <rect x="420" y="100" width="140" height="26" class="tag"/><text x="490" y="118" class="tag-text">Critique Loops</text>
+  </g>
+
+  <!-- Project 2: NeuroMirror -->
+  <g transform="translate(60, 290)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.6s" dur="1s" fill="freeze"/>
+    <rect width="730" height="170" class="card"/>
+    <text x="40" y="45" class="proj-title">NeuroMirror</text>
+    <text x="40" y="70" class="proj-sub" fill="#8B5CF6">Real-Time Behavioral Intelligence System</text>
+    
+    <text x="40" y="110" class="proj-desc">Analyzes facial expressions, eye contact,</text>
+    <text x="40" y="132" class="proj-desc">confidence, and communication patterns</text>
+    <text x="40" y="154" class="proj-desc">through real-time AI feedback.</text>
+
+    <!-- Tags -->
+    <rect x="420" y="30" width="140" height="26" class="tag"/><text x="490" y="48" class="tag-text">Facial Analysis</text>
+    <rect x="570" y="30" width="130" height="26" class="tag"/><text x="635" y="48" class="tag-text">Eye Contact Tracker</text>
+    <rect x="420" y="65" width="140" height="26" class="tag"/><text x="490" y="83" class="tag-text">Confidence Scoring</text>
+    <rect x="570" y="65" width="130" height="26" class="tag"/><text x="635" y="83" class="tag-text">Real-Time Feedback</text>
+  </g>
+
+  <!-- Project 3: PARALLEL -->
+  <g transform="translate(60, 480)" opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.8s" dur="1s" fill="freeze"/>
+    <rect width="730" height="170" class="card"/>
+    <text x="40" y="45" class="proj-title">PARALLEL</text>
+    <text x="40" y="70" class="proj-sub" fill="#10B981">Alternate-Self Simulation Framework</text>
+    
+    <text x="40" y="110" class="proj-desc">Explores decision-making through</text>
+    <text x="40" y="132" class="proj-desc">multiple AI-generated cognitive perspectives</text>
+    <text x="40" y="154" class="proj-desc">and future trajectory analysis.</text>
+
+    <!-- Tags -->
+    <rect x="420" y="30" width="140" height="26" class="tag"/><text x="490" y="48" class="tag-text">Decision-Making Sim</text>
+    <rect x="570" y="30" width="130" height="26" class="tag"/><text x="635" y="48" class="tag-text">Cognitive Models</text>
+    <rect x="420" y="65" width="140" height="26" class="tag"/><text x="490" y="83" class="tag-text">Trajectory Analysis</text>
+  </g>
+</svg>

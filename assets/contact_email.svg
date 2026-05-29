@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 150" width="100%" height="auto">
+  
+  <defs>
+    <style>
+      .link { font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: 500; fill: #888888; transition: fill 0.3s; }
+      .icon { stroke: #888888; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; fill: none; transition: stroke 0.3s; }
+      svg:hover .link { fill: #FFFFFF; }
+      svg:hover .icon { stroke: #FFFFFF; }
+    </style>
+  </defs>
+
+  <rect width="460" height="150" fill="#000000"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.5s" dur="1s" fill="freeze"/>
+    <g transform="translate(190, 75)">
+      <g transform="translate(0, -15)">
+        <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" class="icon"/>
+      </g>
+      <text x="32" y="0" class="link">sabbirahmed12546@gmail.com</text>
+    </g>
+    <text x="450" y="75" fill="#444444" text-anchor="middle">•</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="auto">
+  <defs>
+    <style>
+      .quote-mark { font-family: Georgia, 'Times New Roman', Times, serif; font-size: 60px; font-weight: 700; fill: #444444; }
+      .quote-text { font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: 600; fill: #FFFFFF; letter-spacing: -0.5px; }
+      .sub-text { font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: 400; fill: #888888; line-height: 1.5; }
+    </style>
+  </defs>
+  <rect width="850" height="320" fill="#000000"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.5s" dur="1.5s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,15; 0,0" begin="0.5s" dur="1.5s" fill="freeze"/>
+    <text x="60" y="90" class="quote-mark">"</text>
+    
+    <text x="60" y="120" class="quote-text">Researcher and builder focused on machine learning,</text>
+    <text x="60" y="155" class="quote-text">predictive analytics, anomaly detection,</text>
+    <text x="60" y="190" class="quote-text">and intelligent decision-support systems.</text>
+    
+    <text x="60" y="250" class="sub-text">Computer Science &amp; Engineering • Dhaka International University</text>
+    <text x="60" y="280" class="sub-text">First Author of 3 research papers • NASA Space Apps Global Nominee • Innovation World Cup 2025 Global Finalist</text>
+  </g>
+</svg>

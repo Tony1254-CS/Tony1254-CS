@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" width="100%" height="auto">
+  <defs>
+    <style>
+      .section-title { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: 700; letter-spacing: -1px; fill: #FFFFFF; }
+      .card { fill: #0A0A0A; stroke: #222222; stroke-width: 1; rx: 16; }
+      .stat-num { font-family: Arial, Helvetica, sans-serif; font-size: 48px; font-weight: 800; letter-spacing: -2px; fill: #FFFFFF; }
+      .stat-lbl { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: 700; fill: #888888; letter-spacing: 1px; text-transform: uppercase; }
+      .glow { fill: #06B6D4; }
+    </style>
+  </defs>
+  <rect width="850" height="380" fill="#000000"/>
+  <text x="60" y="60" class="section-title">Achievements</text>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.8s" dur="1s" fill="freeze"/>
+    
+    <!-- Achievement 1 -->
+    <rect x="60" y="100" width="355" height="110" class="card"/>
+    <circle cx="85" cy="155" r="4" class="glow"/>
+    <text x="110" y="150" class="stat-num">01</text>
+    <text x="180" y="140" class="stat-lbl">GLOBAL NOMINEE</text>
+    <text x="180" y="160" class="stat-lbl">NASA SPACE APPS CHALLENGE 2025</text>
+    
+    <!-- Achievement 2 -->
+    <rect x="435" y="100" width="355" height="110" class="card"/>
+    <circle cx="460" cy="155" r="4" fill="#8B5CF6"/>
+    <text x="485" y="150" class="stat-num">02</text>
+    <text x="555" y="140" class="stat-lbl">1ST RUNNER-UP</text>
+    <text x="555" y="160" class="stat-lbl">NASA SPACE APPS CHALLENGE 2025</text>
+
+    <!-- Achievement 3 -->
+    <rect x="60" y="230" width="355" height="110" class="card"/>
+    <circle cx="85" cy="285" r="4" fill="#10B981"/>
+    <text x="110" y="280" class="stat-num">03</text>
+    <text x="180" y="270" class="stat-lbl">FIRST AUTHOR</text>
+    <text x="180" y="290" class="stat-lbl">THREE RESEARCH PAPERS</text>
+
+    <!-- Achievement 4 -->
+    <rect x="435" y="230" width="355" height="110" class="card"/>
+    <circle cx="460" cy="285" r="4" fill="#F59E0B"/>
+    <text x="485" y="280" class="stat-num">04</text>
+    <text x="555" y="270" class="stat-lbl">GLOBAL FINALIST</text>
+    <text x="555" y="290" class="stat-lbl">INNOVATION WORLD CUP 2025</text>
+  </g>
+</svg>

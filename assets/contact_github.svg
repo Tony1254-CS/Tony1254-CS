@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 150" width="100%" height="auto">
+  
+  <defs>
+    <style>
+      .link { font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: 500; fill: #888888; transition: fill 0.3s; }
+      .icon { stroke: #888888; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; fill: none; transition: stroke 0.3s; }
+      svg:hover .link { fill: #FFFFFF; }
+      svg:hover .icon { stroke: #FFFFFF; }
+    </style>
+  </defs>
+
+  <rect width="270" height="150" fill="#000000"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="0.5s" dur="1s" fill="freeze"/>
+    <g transform="translate(10, 75)">
+      <g transform="translate(0, -15)">
+        <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22" class="icon"/>
+      </g>
+      <text x="32" y="0" class="link">GitHub</text>
+    </g>
+  </g>
+</svg>
